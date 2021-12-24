@@ -1,5 +1,3 @@
-## RSschool-CV
----
 # ![avatar](https://sun6-20.userapi.com/s/v1/ig1/VQKe3RzLSuuh11zRfwxWg2MDd4jFIkM1vvloSlHQ3zzIq1BOO6DbAUVMPphV6C3HZyseEM96.jpg?size=200x200&quality=96&crop=0,0,2160,2160&ava=1)
 # Zivev Dmitrii
 ---
@@ -29,4 +27,5 @@ Graduated from SSTU in 2021 as engineer-constructor and also worked by professio
 ---
 ## Languages
 English - Pre-Intermediate (A2) (according to the online test)
+
 Russian - Native
