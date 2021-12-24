@@ -2,21 +2,21 @@
 
 # Zivev Dmitrii
 
----
+***
 
 ## Contacts:
 
 - [![vk](https://www.knor.ru/vk.gif)](https://vk.com/dimkasyan6497)
 - Email - <dmitriiz.97@mail.ru>
-- Discord - Dimkasyan6497 (@Dimkasyan6497)
+- Discord - Dimkasyan6497 \(\@Dimkasyan6497\)
 
----
+***
 
 ## About me:
 
 Graduated from SSTU in 2021 as engineer-constructor and also worked by profession for 3 years, but I don't really like this job. Now I want to open something new in my life and change profession!
 
----
+***
 
 ## Skills:
 
@@ -25,7 +25,7 @@ Graduated from SSTU in 2021 as engineer-constructor and also worked by professio
 - JS basics
 - Figma
 
----
+***
 
 ## Code example:
 
@@ -35,15 +35,15 @@ Graduated from SSTU in 2021 as engineer-constructor and also worked by professio
     }
 ```
 
----
+***
 
 ## Projects
 
 1 comleted adaptive landing page.
 
----
+***
 
 ## Languages
-English - Pre-Intermediate (A2) (according to the online test)
 
-Russian - Native
+- English - Pre-Intermediate (A2) (according to the online test)
+- Russian - Native
