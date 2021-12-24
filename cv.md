@@ -18,3 +18,8 @@ Graduated from SSTU in 2021 as engineer-constructor and also worked by professio
         return a * b
     }
 ```
+## Projects
+1 comleted adaptive landing page.
+## Languages
+English - Pre-Intermediate (A2) (according to the online test)
+Russian - Native
