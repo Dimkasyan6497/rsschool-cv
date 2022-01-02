@@ -15,7 +15,7 @@ body {
   justify-content: space-between;
 }
 
-.heading {
+.header {
   display: flex;
   align-items: center;
   min-height: 8vh;
@@ -42,6 +42,15 @@ body {
   margin: 0 40px;
 }
 
+hr {
+  width: 100%;
+}
+
+.hr-section {
+  width: 90%;
+  margin: 10px 0;
+}
+
 .nav-link {
   text-decoration: none;
   color: #000;
@@ -60,6 +69,7 @@ body {
 .main-container {
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-between;
 }
 
 .profile {
@@ -69,22 +79,57 @@ body {
   width: 100%;
 }
 
-.img {
+.img-profile {
   margin: 20px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.avatar {
+  height: 270px;
 }
 
 .main-heading {
   font-style: italic;
   font-size: 2em;
+  line-height: 1.5em;
 }
 
 .name {
   letter-spacing: 5px;
-  text-transform: uppercase;
 }
 
 .section {
-  width: 50%;
+  width: 48%;
+  line-height: 1.5em;
+  border-bottom: 1px solid #000;
+  padding: 20px 0;
+}
+
+.section-heading {
+  line-height: 1.5em;
+}
+
+.img-contacts {
+  height: 16px;
+}
+
+.list-contacts {
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+
+.list-skills {
+  list-style-position: inside;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.section-last {
+  border: none;
 }
 
 .footer {
@@ -101,4 +146,9 @@ body {
   text-align: center;
   line-height: 30px;
   font-size: 18px;
+}
+
+.img {
+  height: 100%;
+  width: 100%;
 }
